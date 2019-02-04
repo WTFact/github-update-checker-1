@@ -1,5 +1,5 @@
 # GitHub Update Checker
-
+[IP Leak, DNS Leak Test, WebRTC Test, What is my IP address](https://ipleak.org)
 检查 GitHub 上指定的仓库是否有新 Release
 
 ## C&#35;
